@@ -18,5 +18,8 @@
     \D not a decimal
     \s whitespace character
     \S not a whitespace
+    A|B A or B
+    (...) a group
+    (?:...) non-capturing version 
 
 
